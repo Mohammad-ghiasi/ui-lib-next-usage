@@ -1,7 +1,6 @@
 "use client";
 import { Button } from "ghiasi-ui-library-kit";
 import { ShoppingCart } from "lucide-react";
-import Image from "next/image";
 
 export default function Home() {
   return (
